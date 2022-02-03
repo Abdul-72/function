@@ -46,6 +46,10 @@ const displayuserinfo = () => {
 displayuserinfo ()
 
 
+const displayuserinfo = () => {
+
+}
+
 //  function expression , in function expression we will assign a function to a variable 
 const a = function () {
     return 1 ;
